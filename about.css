@@ -1,0 +1,18 @@
+h1 {
+    color: #6A5ACD;
+}
+
+h2 {
+    color: #ff6347;
+}
+
+h3 {
+    color: #008080;
+}
+
+* {
+    border: solid;
+}
+.row{
+    display: flex;
+}

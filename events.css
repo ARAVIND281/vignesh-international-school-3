@@ -1,0 +1,19 @@
+h1 {
+    color: #CB188C;
+}
+
+h2 {
+    color:#f8f800;
+}
+
+
+* {
+    border: solid;
+}
+.head{
+    text-align: center;
+}
+.row{
+    display: flex;
+    text-align: center;
+}
